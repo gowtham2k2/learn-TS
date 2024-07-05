@@ -1,0 +1,18 @@
+{
+  "name": "learnts",
+  "version": "1.0.0",
+  "description": "for learning purpose",
+  "main": "external_module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learn",
+    "education"
+  ],
+  "author": "gowtham ninja",
+  "license": "ISC",
+  "dependencies": {
+    "systemjs": "^6.14.2"
+  }
+}
